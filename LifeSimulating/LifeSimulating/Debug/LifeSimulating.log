@@ -1,0 +1,6 @@
+﻿  LifeSimulating.cpp
+C:\Users\uzimane_\source\repos\LifeSimulating\LifeSimulating\LifeSimulating.cpp(10,21): warning C4838:  преобразование из "int" в "SHORT" требует сужающего преобразования
+C:\Users\uzimane_\source\repos\LifeSimulating\LifeSimulating\LifeSimulating.cpp(10,23): warning C4838:  преобразование из "int" в "SHORT" требует сужающего преобразования
+C:\Users\uzimane_\source\repos\LifeSimulating\LifeSimulating\LifeSimulating.cpp(85,22): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\uzimane_\source\repos\LifeSimulating\LifeSimulating\LifeSimulating.cpp(126,12): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  LifeSimulating.vcxproj -> C:\Users\uzimane_\source\repos\LifeSimulating\Debug\LifeSimulating.exe
